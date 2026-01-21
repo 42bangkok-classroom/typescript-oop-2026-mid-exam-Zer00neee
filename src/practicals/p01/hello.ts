@@ -1,4 +1,6 @@
 // Write your code below
-void{
-    console.log("Hello Exam");
+export{}
+function main(){
+    console.log("Hello Exam")
 }
+main();
