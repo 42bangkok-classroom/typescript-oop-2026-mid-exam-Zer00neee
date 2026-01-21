@@ -1,3 +1,3 @@
 // Write your code be
-let message: string = 'Hello, World!';
+let message: string = 'Hello Exam';
 console.log(message);
