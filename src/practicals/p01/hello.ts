@@ -1,2 +1,4 @@
 // Write your code below
-console.log("Hello Exam")
+void{
+    console.log("Hello Exam");
+}
