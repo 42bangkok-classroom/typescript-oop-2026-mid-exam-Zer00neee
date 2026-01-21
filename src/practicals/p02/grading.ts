@@ -6,7 +6,7 @@ const score = Number(arg);
 
 if (score < 0){
     console.log("Invalid input")
-}else if(score > 0 && score <= 49){
+}else if(score >= 0 && score <= 49){
     console.log("Grade is F")
 }else if(score > 49 && score <= 59){
     console.log("Grade is D")
